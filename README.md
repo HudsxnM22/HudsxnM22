@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HudsxnM22 a computer science major at Bridgewater college
 - 👀 I’m interested in full-stack development and learning new technologies
-- 🌱 I’m currently learning React, Springboot
+- 🌱 I’m currently learning WebRTC, Django
 - 📫 How to reach me, you can reach me via my linkedin
 - ⚡ Fun fact: I initially wanted to be a game developer
 
