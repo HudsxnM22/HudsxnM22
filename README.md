@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HudsxnM22 a computer science major at Bridgewater college
+- 👋 Hi, I’m @HudsxnM22
 - 👀 I’m interested in full-stack development and learning new technologies
 - 🌱 I’m currently learning WebRTC, Lua
 - 📫 How to reach me, you can reach me via my linkedin
