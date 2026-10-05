@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HudsxnM22
 - 👀 I’m interested in full-stack development and learning new technologies
-- 🌱 I’m currently learning WebRTC, Lua
+- 🌱 I’m currently learning about MCP servers
 - 📫 How to reach me, you can reach me via my linkedin
 - ⚡ Fun fact: I initially wanted to be a game developer
 
